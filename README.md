@@ -1,6 +1,6 @@
 # Hi 👋, Im Caio Cesar
 
-🚀 **Analista de Suporte N2/N3 & Cursando bacharelado em ciências da computação - 6º Semestre**
+🚀 L2/L3 Support Analyst | B.S. Candidate in Computer Science (6th Semester)
 
 🇧🇷 Brazil 
 
