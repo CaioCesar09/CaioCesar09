@@ -60,13 +60,15 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioCesar09&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCesar09&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=CaioCesar09&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="Caio's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=CaioCesar09&layout=compact&theme=tokyonight" height="170" alt="Caio's Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
