@@ -63,10 +63,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=CaioCesar09&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="Caio's GitHub stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioCesar09&theme=tokyonight" height="170" alt="GitHub Streak Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=CaioCesar09&layout=compact&theme=tokyonight" height="170" alt="Caio's Top Langs" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioCesar09&theme=tokyonight" height="170" alt="GitHub Profile Details" />
     </td>
   </tr>
 </table>
